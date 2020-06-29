@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="chess@39.98.48.34" uuid="b3355f88-2c23-4cca-a662-271b7d7fb24d">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://39.98.48.34:3306/chess?serverTimezone=UTC</jdbc-url>
+    </data-source>
+  </component>
+</project>
